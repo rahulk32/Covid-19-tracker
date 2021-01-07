@@ -1,4 +1,4 @@
-# covid-tracker
+# covid-19-tracker
 ### [Website Link](https://rahulk32.github.io/covid-tracker/)
 ![Covid Tracker](https://www.icm-mhi.org/sites/default/files/images/COVID19/covid19.png)
 
